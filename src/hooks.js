@@ -1,5 +1,7 @@
 import cookie from "cookie";
 import { v4 as uuid } from "@lukeed/uuid";
+/// REMOVE THIS LINE to make the file work again
+import fs from "fs/promises";
 
 console.log(">>> HOOKS RUNNING");
 
